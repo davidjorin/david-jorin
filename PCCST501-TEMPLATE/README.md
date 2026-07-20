@@ -4,18 +4,10 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name | David Jorin|
+| Register Number | VJC24CS062|
+| GitHub Username |davidjorin|
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
-## Repository Structure
 
-- Assignments
-- NetworkLab
-- PacketTracer
-- MiniProject
-- Resources
-
-Upload all course work to the appropriate folders.
